@@ -1,3 +1,4 @@
+# fisrt commit test
 class Rule:
 	"""
 	所有规则的基类
